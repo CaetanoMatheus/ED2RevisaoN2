@@ -26,3 +26,7 @@
 
 **Questão 07** Escreva uma função que calcule a altura de uma árvore binária.
 **R** <Mesma resposta da questão 05>
+
+**Questão 08:** Construa uma árvore binária de busca para as seguintes chaves: 14, 15, 3, 4, 9, 7, 18, 3, 5, 16, 4,
+20, 17, 9, 14, 5, 15, 16, 9, 11, 3. Qual a altura (h) e grau desta árvore?
+**R** Altura=6 - Grau={ 14=2 | 15=2 | 3=1 | 4=2 | 9=2 | 7=1 | 18=2 | 3=1 | 5=2 | 16=2 | 4=0 | 20=0 | 17=1 | 9=1 | 14=0 | 5=0 | 15=0 | 16=0 | 9=1 | 11=0 | 3=0 }.
