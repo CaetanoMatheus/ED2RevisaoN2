@@ -1,0 +1,1 @@
+**Questão 08:** Construa uma árvore binária de busca para as seguintes chaves : 14, 15, 3, 4, 9, 7, 18, 3, 5, 16, 4, 20, 17, 9, 14, 5, 15, 16, 9, 11, 3. Qual a altura e grau da árvore? 

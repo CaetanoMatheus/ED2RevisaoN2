@@ -12,3 +12,17 @@
 ***Questão 03:*** Escreva uma função que conta o número de nós não-folha de uma árvore binária.
 **R:**
 [Amount of Nodes not Leaf](https://github.com/CaetanoMatheus/ED2RevisaoN2/blob/master/Tree.java)
+
+***Questão 04:*** Escreva uma função que conta o número de folhas de uma árvore binária.
+**R:**
+[Amount of Leafs](https://github.com/CaetanoMatheus/ED2RevisaoN2/blob/master/Tree.java)
+
+***Questão 05:*** Escreva uma função que calcula a altura de uma árvore binária
+**R:**
+[Height](https://github.com/CaetanoMatheus/ED2RevisaoN2/blob/master/Tree.java)
+
+**Questão 06:** Escreva uma função recursiva que calcule o número de nós em uma árvore binária.
+**R** <Mesma resposta da questão 02>
+
+**Questão 07** Escreva uma função que calcule a altura de uma árvore binária.
+**R** <Mesma resposta da questão 05>
