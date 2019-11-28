@@ -24,6 +24,15 @@ public class Tree {
         return amountOfNodes(root.getRight()) + amountOfNodes(root.getLeft()) + 1;
     }
 
+    public int amountOfNodesNotLeaf() { return amountOfNodesNotLeaf(this.root); }
+
+    private int amountOfNodesNotLeaf(Node root) {
+        if (root == null || 
+        root.getLeft() == null && root.getRight() == null) return 0;
+        return 
+        amountOfNodesNotLeaf(root.getLeft()) + amountOfNodesNotLeaf(root.getRight()) + 1;
+    }
+
     public Node getRoot() { return this.root; }
 
     public void setRoot(Node root) { this.root = root; }
