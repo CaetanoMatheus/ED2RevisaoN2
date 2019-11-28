@@ -8,3 +8,7 @@
 ***Questão 02:*** Escreva uma função que conta o número de nós de uma árvore binária.
 **R:** 
 [Amount of Nodes](https://github.com/CaetanoMatheus/ED2RevisaoN2/blob/master/Tree.java)
+
+***Questão 03:*** Escreva uma função que conta o número de nós não-folha de uma árvore binária.
+**R:**
+[Amount of Nodes not Leaf](https://github.com/CaetanoMatheus/ED2RevisaoN2/blob/master/Tree.java)
